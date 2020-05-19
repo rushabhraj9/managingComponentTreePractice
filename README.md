@@ -1,2 +1,0 @@
-# managingComponentTreePractice
-Created with CodeSandbox
